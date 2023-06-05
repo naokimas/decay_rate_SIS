@@ -1,6 +1,12 @@
 /* Decay rate for SIS on networks via direct numerical simulations.
 Undirected and unweighted networks assumed.
 
+When using this code, please cite the following paper:
+
+Naoki Masuda, Victor M. Preciado, Masaki Ogura.
+Analysis of the susceptible-infected-susceptible epidemic dynamics in networks via the non-backtracking matrix.
+IMA Journal of Applied Mathematics, 85, 214-230 (2020).
+
 The input file, the edge list, should be in the following format:
     The first row of the input file should be "# number-of-nodes number-of-edges"
     Starting from the second row, the first two columns have two nodes to form an edge, and the third column has the edge weight.
