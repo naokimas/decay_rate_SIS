@@ -1,7 +1,7 @@
 # Decay rate and its theoretical bounds for the susceptible-infectious-susceptible (SIS) model on networks
 
-- sis-net-decay.cc is a C/C++ code and produces the decay rate of the number of infectious nodes in the SIS model by direct stochastic numerical simulations of the SIS model on networks, using the Gillespie's direct algorithm, and
-- siso.m is a MATLAB code and produces the theoretical bounds of the decay rate.
+- `sis-net-decay.cc` is a C/C++ code and produces the decay rate of the number of infectious nodes in the SIS model by direct stochastic numerical simulations of the SIS model on networks, using the Gillespie's direct algorithm, and
+- `siso.m` is a MATLAB code and produces the theoretical bounds of the decay rate.
 
 If you use this code, please cite
 
