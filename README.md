@@ -13,7 +13,7 @@ IMA Journal of Applied Mathematics, 85, 214-230 (2020).](https://doi.org/10.1093
 
 This paper is open access.
 
-Usage (i)
+## Calculate the decay rate by direct stochastic numerical simulations of the SIS model on networks
 
 ```
 g++ sis-net-decay.cc  
@@ -25,4 +25,9 @@ a.out input-file-name
 - The input file has to follow a certain format, which is described in the preample of sis-net-decay.cc
 - One can alternatively set the data_type as an integer in place of input-file-name when running a.out. See sis-net-decay.cc for details.
 
-Usage (ii)
+## Calculate theoretical lower bounds of the decay rate of the SIS model on networks
+
+Run `siso.m` on MATLAB without arguments.
+
+- It reads a edge list file and outputs a table of theoretical lower boundsd of the decay rate for infection rate values.
+
