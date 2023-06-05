@@ -7,8 +7,8 @@ This code produces
 
 If you use this code, please cite
 
-[Naoki Masuda, Victor M. Preciado, Masaki Ogura.
-Analysis of the susceptible-infected-susceptible epidemic dynamics in networks via the non-backtracking matrix.
+[Naoki Masuda, Victor M. Preciado, Masaki Ogura.  
+Analysis of the susceptible-infected-susceptible epidemic dynamics in networks via the non-backtracking matrix.  
 IMA Journal of Applied Mathematics, 85, 214-230 (2020).](https://doi.org/10.1093/imamat/hxaa003)
 
 This paper is open access.
