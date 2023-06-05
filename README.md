@@ -15,9 +15,10 @@ This paper is open access.
 
 Usage (i)
 
-g++ sis-net-decay.cc
-
+```
+g++ sis-net-decay.cc  
 a.out input-file-name
+```
 
 - You need a C++ compiler.
 - We provide four edge list files, any of which can be used as input-file-name.
