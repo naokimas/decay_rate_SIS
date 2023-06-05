@@ -21,7 +21,7 @@ a.out input-file-name
 ```
 
 - You need a C++ compiler.
-- We provide four edge list files (with extension .mat, but they are not MATLAB files) in this folder. They are text files. Any of these files can be specified as input-file-name. These four networks are used in the paper.
+- We provide four edge list files (with extension .mat, but they are not MATLAB files; they are text files) in this folder. Any of these files can be specified as input-file-name. These four networks are used in the paper.
 - The input file has to follow a certain format, which is described in the preample of sis-net-decay.cc
 - One can alternatively set the data_type as an integer in place of input-file-name when running a.out. See sis-net-decay.cc for details.
 
